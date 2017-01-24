@@ -12,7 +12,7 @@ This package includes
  * install nodejs 4+
  * install yarn 
 
-#### Clone and isntall dependencies
+#### Clone and install dependencies
 
  ```
  clone https://github.com/zirho/node-es6-unit-test
