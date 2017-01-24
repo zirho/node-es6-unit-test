@@ -1,6 +1,7 @@
 ### Simply clone this and start writing es6 code and unit tests
 
 This package includes
+ * support for ES6 including stage 0 specs
  * babel
  * eslint
  * mocha
