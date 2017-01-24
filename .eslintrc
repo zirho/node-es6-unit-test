@@ -1,0 +1,28 @@
+{
+  "extends": "airbnb-base",
+  "env": {
+    "node": true,
+    "es6": true,
+    "mocha": true
+  },
+  "parser": "babel-eslint",
+  "rules": {
+    "comma-dangle": 0,
+    "global-require": 0,
+    "no-console": 0,
+    "semi": [2, "never"],
+    "func-names": 0,
+    "space-before-function-paren": 0,
+    "babel/generator-star-spacing": 1,
+    "babel/new-cap": 1,
+    "babel/object-shorthand": 1,
+    "babel/no-await-in-loop": 1,
+  },
+  "plugins": [
+    "babel"
+  ],
+  "settings": {
+    "import/parser": "babel-eslint"
+  }
+}
+
